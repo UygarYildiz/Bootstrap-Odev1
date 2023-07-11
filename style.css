@@ -1,0 +1,23 @@
+.btnHak{
+    margin-bottom: 89px;
+}
+.card-img-top {
+    width: 100%;
+    height: 30vh;
+    object-fit: contain;
+    }
+    .sol{
+        margin-left: 90px;
+    }
+    .sag{
+        margin-right: 90px;
+    }
+    .textstyle {
+        background: #CDCDCD;
+        border-radius: 0.25em;
+      }
+      .buton{
+        border-radius: 20px;
+        background: #CDCDCD;
+        
+      }
